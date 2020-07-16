@@ -57,7 +57,7 @@
         <spring.version>4.1.8.RELEASE</spring.version>
         <jetty.version>8.1.12.v20130726</jetty.version>
         <codehaus.jackson.version>1.9.13</codehaus.jackson.version>
-        <fastxml.jackson.version>2.3.1</fastxml.jackson.version>
+        <fastxml.jackson.version>2.11.1</fastxml.jackson.version>
         <httpcomponents.version>4.3</httpcomponents.version>
         <jedis.version>2.4.2</jedis.version>
         <cloverLicenseLocation>${basedir}/clover.license</cloverLicenseLocation>
